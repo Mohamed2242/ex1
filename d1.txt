@@ -2,4 +2,5 @@ first: hello
 
 iam mo in master
 
-iam mo in b2
+iam mo in b1 or b2
+
